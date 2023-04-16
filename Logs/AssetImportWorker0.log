@@ -1,0 +1,247 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.22f1 (b6c551784ba3) revision 11978065'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Users\ASUS\Documents\Unity Project Group\2021.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ASUS/Documents/Unity Project Group/BoxFInalAR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57033
+Successfully changed project path to: C:/Users/ASUS/Documents/Unity Project Group/BoxFInalAR
+C:/Users/ASUS/Documents/Unity Project Group/BoxFInalAR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7512] Host "[IP] 192.168.100.7 [Port] 0 [Flags] 2 [Guid] 3466334326 [EditorId] 3466334326 [Version] 1048832 [Id] WindowsEditor(7,KHARIS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7512] Host "[IP] 192.168.100.7 [Port] 0 [Flags] 2 [Guid] 3466334326 [EditorId] 3466334326 [Version] 1048832 [Id] WindowsEditor(7,KHARIS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 88.33 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 2.85 ms.
+Initialize engine version: 2021.3.22f1 (b6c551784ba3)
+[Subsystems] Discovering subsystems at path C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ASUS/Documents/Unity Project Group/BoxFInalAR/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3991 MB
+    Driver:   31.0.15.1720
+Initialize mono
+Mono path[0] = 'C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Users/ASUS/Documents/Unity Project Group/2021.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.303618 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 252 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 82.07 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.12 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5910ms)
+		BeginReloadAssembly (3780ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1496ms)
+			LoadAssemblies (3787ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (855ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (561ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (355ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (80ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008241 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\ASUS\Documents\Unity Project Group\BoxFInalAR\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\ASUS\Documents\Unity Project Group\BoxFInalAR\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.061 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4062ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (3807ms)
+			LoadAssemblies (2445ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (858ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (376ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (240ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.14 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (124.2 KB). Loaded Objects now: 3907.
+Memory consumption went from 122.0 MB to 121.8 MB.
+Total: 3.368300 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.142900 ms MarkObjects: 2.697900 ms  DeleteObjects: 0.185700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 336137.286137 seconds.
+  path: Assets/Orkassasin/Animation/orkassasin@idle2.fbx
+  artifactKey: Guid(d646320d45fd12c4a9a12d29f42710df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/Animation/orkassasin@idle2.fbx using Guid(d646320d45fd12c4a9a12d29f42710df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1858b2dadf38d89874864038e883bec') in 0.267691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.184623 seconds.
+  path: Assets/Orkassasin/prefab/Base mesh.fbx
+  artifactKey: Guid(9ba437e07b4055c4aa4e2a95cbac09ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Base mesh.fbx using Guid(9ba437e07b4055c4aa4e2a95cbac09ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574b16925322d7fcbe0c62d99fd936af') in 0.095989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.897032 seconds.
+  path: Assets/Orkassasin/prefab/Materials/body1.mat
+  artifactKey: Guid(7bcf354bf4620174e9c5c9b2cb85bbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/body1.mat using Guid(7bcf354bf4620174e9c5c9b2cb85bbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c6a7bfb36f5da4dd9381bdbf43ad09') in 0.038214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Orkassasin/prefab/Materials/phong15.mat
+  artifactKey: Guid(20e0e0d431486cf448f7d25999737e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/phong15.mat using Guid(20e0e0d431486cf448f7d25999737e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e48dabd39048c10acbf67a32c632556') in 0.013325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Orkassasin/prefab/Materials/headmat.mat
+  artifactKey: Guid(684b206d4304b584a968b02438dc99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/headmat.mat using Guid(684b206d4304b584a968b02438dc99b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573436ae27dfeb654cce03a35b37b9b8') in 0.013087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Orkassasin/prefab/Materials/phong12.mat
+  artifactKey: Guid(bc2c757dc2be99b41b06c446cd1b01f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/phong12.mat using Guid(bc2c757dc2be99b41b06c446cd1b01f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa893f1b65a680c571c0abc96b8a5092') in 0.011154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Orkassasin/prefab/Materials/leggsmat.mat
+  artifactKey: Guid(9d5868e7ae08f1244a60f2e3e53a2f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/leggsmat.mat using Guid(9d5868e7ae08f1244a60f2e3e53a2f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642e224433c95800f1783240144429d4') in 0.012899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Orkassasin/prefab/Materials/lambert2.mat
+  artifactKey: Guid(a32a3dbf1b44ae54695a3d4c0419fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/lambert2.mat using Guid(a32a3dbf1b44ae54695a3d4c0419fc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b910726a218ee8f7b55ef56da7656ad') in 0.011209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Orkassasin/prefab/Materials/phong13.mat
+  artifactKey: Guid(502081d05c19e274287520df2dff99e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/phong13.mat using Guid(502081d05c19e274287520df2dff99e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81df16659c7516b1531b27d8945f75fb') in 0.011870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Orkassasin/prefab/Materials/shouldersmat.mat
+  artifactKey: Guid(df29b26d15b39734186df4aeff6d3317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/shouldersmat.mat using Guid(df29b26d15b39734186df4aeff6d3317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce5c056098ec8c75b04eaf3833ed21f') in 0.012008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Orkassasin/prefab/Materials/helmmat.mat
+  artifactKey: Guid(9b069249f0c1c9b4b9b78af553f0167e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/helmmat.mat using Guid(9b069249f0c1c9b4b9b78af553f0167e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d9b382e53224035920bc5651f13581') in 0.014193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Orkassasin/prefab/Materials/handsarmormat.mat
+  artifactKey: Guid(1ebbc68634febb746a4c87d68a9c304b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Orkassasin/prefab/Materials/handsarmormat.mat using Guid(1ebbc68634febb746a4c87d68a9c304b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0358a6ab6006c96de4e4ec9bfa76a1f') in 0.013635 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
