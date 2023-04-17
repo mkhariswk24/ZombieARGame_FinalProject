@@ -8,7 +8,7 @@ Aplikasi ini menggunakan Image Target sebagai Maker dengan background jalan. Ada
 
 Source Info :
 - Image Target atau Marker : https://drive.google.com/file/d/1YQGqRRVfPOPts6hBijJ82KRC7hPk4V7v/view?usp=sharing or https://github.com/mkhariswk24/ZombieARGame_FinalProject/blob/main/SourceOther/zombiemark.jpg
-- Zombie AR Game APK : https://drive.google.com/file/d/1snVos9TVJuqz67g08eqyfdLeKzkm9DMK/view?usp=share_link 
+- Zombie AR Game APK : https://drive.google.com/file/d/1snVos9TVJuqz67g08eqyfdLeKzkm9DMK/view?usp=share_link or https://www.dropbox.com/s/otkqbic00643jyq/ZombieARGame.apk?dl=0
 - Room Mozilla Hubs : https://hubs.mozilla.com/link/8dewci5
 - Vuforia Asset from Unity (Free Asset Project) : https://developer.vuforia.com/# or https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
 - Zombie Object Asset from Unity (Free Asset Project) : https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
